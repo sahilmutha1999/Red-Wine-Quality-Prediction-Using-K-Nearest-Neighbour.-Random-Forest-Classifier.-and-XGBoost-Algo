@@ -9,3 +9,13 @@ In this project, I have predicted the accuracy at which KNN, Random Forest and X
 3. Seaborn
 4. Matplotlib
 5. XGBoost
+
+
+## Accuracy
+
+* K-Nearest Neighbour - 58%
+* Random Forest Classifier - 72%
+
+## Conclusion
+
+Based on the prediction accuracy, it is concluded that Random Forest Classifier predicts more precisely than other algorithms.
